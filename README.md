@@ -8,7 +8,7 @@ Trying to figure out Github with this one. Please feel free to ignore it.
 - [ ] Upload files to Github after committing
 - [ ] Get familiar with the Github UX
 - [ ] How to upload on Github
-- [ ] Explore the possibilities
+- [x] Explore the possibilities
 - [x] How to use SSH keys
 - [x] `README.md` markup
 
