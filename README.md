@@ -4,10 +4,10 @@ Trying to figure out Github with this one. Please feel free to ignore it.
 
 **TODO:**
 
-- [ ] How to use Git (I already know how to use it, just gonna go a bit deeper)
-- [ ] Upload files to Github after committing
-- [ ] Get familiar with the Github UX
-- [ ] How to upload on Github
+- [x] How to use Git (I already know how to use it, just gonna go a bit deeper)
+- [x] Upload files to Github after committing
+- [x] Get familiar with the Github UX
+- [x] How to upload on Github
 - [x] Explore the possibilities
 - [x] How to use SSH keys
 - [x] `README.md` markup
